@@ -14,6 +14,6 @@ I am also an Affiliated Scholar at the [Data, Policy and Innovation Centre](http
 My research is in Development and Environmental Economics.
 
 You can find my recent work on the [research](research.qmd) page and
-download my [CV](cv_aug_26.pdf).
+download my [CV](cv_sep_26.pdf).
 
 My email is menna[dot]bishop[at]warwick.ac.uk.
